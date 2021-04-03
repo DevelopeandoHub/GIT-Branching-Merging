@@ -1,0 +1,23 @@
+.menu-sections {
+  padding: 15px;
+}
+
+.menu-sections-titulos {
+  font-weight: 800;
+}
+
+.menu-sections-articles {
+  margin-bottom: 10px;
+}
+
+.menu-sections-articles.last {
+  margin-bottom: 0;
+}
+
+.menu-article-title {
+  font-weight: 500;
+}
+
+p {
+  font-weight: 300;
+}

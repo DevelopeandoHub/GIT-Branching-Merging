@@ -1,0 +1,16 @@
+header {
+  padding: 15px 15px 25px;
+  border-bottom: 5px solid brown;
+  background-color: black;
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.nav-link {
+  display: inline-block;
+  text-decoration: none;
+  color: white;
+}
